@@ -1,0 +1,17 @@
+[
+    {"path": "keynote\\barack obama.wav", "title": "My name is barack obama", "tag": [""]},
+    {"path": "first iphone.wav", "title": "The first iPhone was released in 2007", "tag": [""]},
+    {"path": "hasta la vista baby.wav", "title": "hasta la vista baby", "tag": ["터미네이터 대사"]},
+    {"path": "Do you know jisung park.wav", "title": "Do you know jisung park?", "tag": ["두유노"]},
+    {"path": "soju macjoo.wav", "title": "소주 맥주 하나 더 주세요.", "tag": ["한국어"]},
+    {"path": "yummy kimchi.wav", "title": "김치 정말 맛있어요.", "tag": ["한국어"]},
+    {"path": "random game.wav", "title": "랜덤게임 랜덤게임", "tag": ["한국어"]},
+    {"path": "obama favoriate randomgame.wav", "title": "오바마가 좋아하는 랜덤게임", "tag": ["한국어"]},
+    {"path": "Hongik univ.wav", "title": "I'm hongik university student", "tag": [""]},
+    {"path": "keynote\\get me out of here please.wav", "title": "get me out of here please", "tag": [""]},
+    {"path": "starcraft\\ghost.wav", "title": "스타크래프트 고스트 대사", "tag": ["스타크래프트"]},
+    {"path": "starcraft\\wraith Receiving transmission.wav", "title": "스타크래프트 레이스 대사", "tag": ["스타크래프트"]},
+    {"path": "twitch\\love you kingdo.wav", "title": "사랑해요 김도", "tag": ["트위치"]},
+    {"path": "twitch\\인쓰술달.wav", "title": "Life is bitter, alchol is sweet (인쓰술달)", "tag": ["트위치"]},
+    {"path": "changduk\\birthday.wav", "title": "내 생일", "tag": [""]}
+]
