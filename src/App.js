@@ -19,7 +19,7 @@ class App extends Component {
                 <div className="content">
                     <div className="profile">
                         <img src={Obama}/>
-                        <p>Barack Obama TTS</p>
+                        <p>Barack Obama<br/>Text to Speech</p>
                     </div>
                     <SampleInput/>
                 </div>
