@@ -121,7 +121,7 @@ class SampleInput extends React.Component {
                             <div/>
                         </div> : undefined
                     }
-                    <p>처음 합성하는 음성은 1분 정도 걸립니다.</p>
+                    <p>처음 합성하는 음성은 10초 정도 걸립니다.</p>
                 </form>
             </div>,
             <div className="history" style={styles.history} key={1}>
