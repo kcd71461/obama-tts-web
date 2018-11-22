@@ -13,7 +13,7 @@ var port = 5000;
 var cachePath = path.join(__dirname, 'cache');
 var scoreDataPath = path.join(__dirname, 'score.json');
 var historyDataPath = path.join(__dirname, 'history.json');
-var sampleDataPath = path.join(__dirname, 'assets\\sample\\sample.json');
+var sampleDataPath = path.join(__dirname, 'assets/sample/sample.json');
 var scoreData = [];
 var historyData = {};
 
